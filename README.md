@@ -3,8 +3,11 @@
 java App 4
 and than input numbers
 1
+<br>
 2
+<br>
 3
+<br>
 4
 when you want to stop input use CTRL + D
 
